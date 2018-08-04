@@ -8,7 +8,10 @@ public class Modulo5Application {
 
 	public static void main(String[] args) {
 		System.out.println("<<<<HOLA>>>>");
+<<<<<<< HEAD
 		System.out.println("<<<<Mundo>>>>");
+=======
+>>>>>>> eaf8704... first commit
 		SpringApplication.run(Modulo5Application.class, args);
 
 	}
